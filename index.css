@@ -7,7 +7,10 @@ body{
     background-attachment: fixed;
    
   }
- 
+ .menu2{
+     color:black;
+     font-weight:600;
+ }
   .bg-custom-gradient{
     background:linear-gradient(45deg,rgb(2, 94, 94),rgb(26, 81, 81));
     border-bottom: 6px solid #100d07;
